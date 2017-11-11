@@ -13,9 +13,9 @@ c.ConsoleWidget.width = 140
 # @see: https://bitbucket.org/joon/color-schemes-for-jupyter-qt-console
 
 #color_theme = 'base16_ocean_dark'
-color_theme = 'blackboard'
+#color_theme = 'blackboard'
 #color_theme = 'material_light'
-#color_theme = 'monokai'
+color_theme = 'monokai'
 #color_theme = 'solarizedlight'
 #color_theme = 'solarizeddark'
 #color_theme = 'tomorrow'
