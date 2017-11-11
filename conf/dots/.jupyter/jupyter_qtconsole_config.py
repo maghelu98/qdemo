@@ -35,7 +35,10 @@ c.JupyterQtConsoleApp.confirm_exit = True
 c.JupyterWidget.buffer_size=10000
 
 # c.JupyterWidget.editor = 'notepad'
-c.JupyterWidget.editor = "C:\\Program Files\\Notepad++\\notepad++.exe"
+# c.JupyterWidget.editor = "C:\\Program Files\\Notepad++\\notepad++.exe"
+
+c.JupyterWidget.editor = "ipython-editor.py"
+
 
 ##
 # @see: http://qtconsole.readthedocs.io/en/stable/config_options.html
